@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "tiny-store-db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "",
+    "password": null,
+    "database": "tiny-store-db",
+    "host": "",
+    "dialect": ""
+  },
+  "production": {
+    "username": "",
+    "password": null,
+    "database": "tiny-store-db",
+    "host": "",
+    "dialect": ""
+  }
+}
+
